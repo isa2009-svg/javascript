@@ -67,7 +67,7 @@ function initSnow() {
  
 function resize() { 
  marginBottom = document.body.scrollHeight - 5; 
- marginRight = document.body.clientWidth - 15; 
+ marginRight = document.body.clientWidth; 
 } 
  
 function moveSnow() { 
