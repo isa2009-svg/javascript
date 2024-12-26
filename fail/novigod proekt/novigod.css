@@ -1,0 +1,169 @@
+header{
+  display: flex;
+  background-color: red;
+  justify-content: space-between;
+}
+.knopkalar{
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.knopkalar a{
+  color: white;
+  text-decoration: none;
+}
+
+.signs{
+  display: flex;
+  width: 15%;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.im {
+  width: 100%;
+height: 600px;
+}
+
+textarea {
+  background-color: rgb(38, 65, 202);
+}
+.mingo {
+  width: 200px;
+  height: 100px;
+}
+.fan-animation {
+  margin-left: 80px;
+  border: 1px solid;
+  border-width: 1px;
+  border-style: dotted;
+  border-color: black;
+  object-fit: cover;
+  background-color:white;
+  width: 300px;
+  height:400px ;
+
+  align-items: center;
+  text-align: center;
+}
+.btn1 {
+  width: 200px;
+  height: 35px;
+  border-radius: 10px;
+  border-color: orange;
+  background-color: rgb(144, 141, 140);
+margin-top: 20px;
+}
+.imh {
+  text-align: center;
+}
+.pi {
+  color: grey;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.zattar1{
+  width: 100%;
+   padding-top: 100px;
+    display: flex;
+}
+
+
+.foto1 {
+  
+  margin-left: 30px;
+  width: 325px;
+  height: 425px;
+}
+.foto2 {
+  margin-top: -526px;
+margin-left: 30px;
+  width: 325px;
+  height: 425px;
+}
+.foto3 {
+  margin-top: -526px;
+  margin-left: 30px;
+    width: 325px;
+    height: 425px;
+}
+.foto4 {
+  margin-top: -526px;
+  margin-left: 30px;
+
+    width: 325px;
+    height: 425px;
+}
+.tovar1 {
+  margin-left: 30px;
+  background-color: rgba(247, 247, 247, 0.748);
+  width: 325px;
+  height: 60px;
+  border-radius: 10px;
+  border-color:rgb(249, 252, 252) ;
+  font-size: 20px;
+}
+.tovar2 {
+  margin-left: 30px;
+  background-color: rgba(247, 247, 247, 0.748);
+  width: 325px;
+  height: 60px;
+  border-radius: 10px;
+  border-color:rgb(249, 252, 252) ;
+  font-size: 20px
+}
+.tovar3 {
+  margin-left: 30px;
+  background-color: rgba(247, 247, 247, 0.748);
+  width: 325px;
+  height: 60px;
+  border-radius: 10px;
+  border-color:rgb(249, 252, 252) ;
+  font-size: 20px
+}
+.tovar4 {
+  margin-left: 30px;
+  background-color: rgba(247, 247, 247, 0.748);
+  width: 325px;
+  height: 60px;
+  border-radius: 10px;
+  border-color:rgb(249, 252, 252) ;
+  font-size: 20px
+}
+h3 {
+  font-size: 50px;
+  margin-left: 700px;
+  color: red;
+}
+.zvezda {
+  margin-left: 700px;
+}
+
+.jok {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+margin-left: 700px;
+margin-top: px;
+}
+.trun {
+  font-size: 20px;
+ text-align: center;
+ color: darkorange;
+}
+.ki {
+  font-size: 15px;
+  text-align: center;
+  color: whitesmoke;
+  margin-top: -250px;
+}
+.joka {
+  width: 100%;
+  height: 650px;
+  border-image: auto;
+}
+.img2 {
+  margin-top: -20px;
+}
